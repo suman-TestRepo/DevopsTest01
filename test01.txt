@@ -1,5 +1,5 @@
 
-3
+2
 Merging code for branch a  and test for B
 b1 added
 
